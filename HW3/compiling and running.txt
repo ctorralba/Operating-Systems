@@ -1,0 +1,2 @@
+gcc -o client client.c -lpthread -D_REENTRANT
+gcc -o server serverTemplate.c -lpthread -D_REENTRANT

@@ -1,0 +1,68 @@
+Script started on Thu 09 Feb 2017 08:48:45 PM CST
+]0;ct5w9@rc06xcs213: ~/SDRIVE/cs3800ct5w9@rc06xcs213:~/SDRIVE/cs3800$ ./hw1.sh
+WELCOME
+---------------------------------------
+select a menu otpion
+1- ancestry history
+2- who is online
+3- what process any user is running
+4- exit
+1
+THE ANCESTRY TREE FOR CURRENT PROCESS IS....
+309
+|
+81
+|
+192
+|
+191
+|
+187
+|
+186
+|
+182
+|
+105
+|
+1
+select a menu otpion
+1- ancestry history
+2- who is online
+3- what process any user is running
+4- exit
+2
+jssfg8 ntamb3 ct5w9 ds5b4 ntamb3 ms778 btjywb kglq58 
+select a menu otpion
+1- ancestry history
+2- who is online
+3- what process any user is running
+4- exit
+3
+Select a currently online user to view his processes:
+1)btjywb
+2)ct5w9
+3)ds5b4
+4)jssfg8
+5)kglq58
+6)ms778
+7)ntamb3
+1
+ct5w9      477   309  0 20:49 pts/8    00:00:00 grep btjywb
+btjywb   15061     1  0 13:10 ?        00:00:01 /usr/bin/perl /usr/bin/dfshack /mnt/dfs/btjywb/Users/btjywb /nethome/users/btjywb -o nonempty,dev,suid
+btjywb   15071     1  0 13:10 ?        00:00:01 /lib/systemd/systemd --user
+btjywb   15075 15071  0 13:10 ?        00:00:00 (sd-pam)
+btjywb   15099 15052  0 13:10 ?        00:00:00 sshd: btjywb@pts/6
+
+
+select a menu otpion
+1- ancestry history
+2- who is online
+3- what process any user is running
+4- exit
+4
+
+]0;ct5w9@rc06xcs213: ~/SDRIVE/cs3800ct5w9@rc06xcs213:~/SDRIVE/cs3800$ exit
+exit
+
+Script done on Thu 09 Feb 2017 08:49:15 PM CST
